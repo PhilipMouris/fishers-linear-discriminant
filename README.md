@@ -1,3 +1,3 @@
 # fishers-linear-discriminant-implementation
 
-A python implementation of the Fisher’s Linear Discriminant classification algorithm.
+A Python implementation of the Fisher’s Linear Discriminant classification algorithm.
